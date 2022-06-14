@@ -3,14 +3,6 @@
 <html>
 	<head>
 		<title>Грузоперевозки</title>
-		<style type="text/css">
-		   <body> {
-				background-color: #d2b48c;
-				margin-left: 20%;
-				margin-right: 20%;
-				font-family: sans-serif;
-			}
-		</style>
 	</head>
 	<body>
 		<h1> Грузоперевозки "Везет кому то"</h1>
